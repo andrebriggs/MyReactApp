@@ -1,0 +1,8 @@
+site_name: MyReactApp
+site_description: A test app
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
